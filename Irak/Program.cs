@@ -6,6 +6,7 @@ namespace Irak
     {
         static void Main(string[] args)
         {
+            // Ad comment befor commit 
             Console.WriteLine("Hello Irak!");
         }
     }
